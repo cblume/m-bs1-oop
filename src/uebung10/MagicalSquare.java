@@ -2,6 +2,7 @@ package uebung10;
 
 import acm.program.ConsoleProgram;
 
+@SuppressWarnings("serial")
 public class MagicalSquare extends ConsoleProgram {
 
     private int[][] MAGICAL_THREE_BY_THREE = {
